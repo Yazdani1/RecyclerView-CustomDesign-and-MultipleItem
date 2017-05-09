@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">RecyclerViewCustomDesign</string>
+
+    <string-array name="title">
+
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+        <item>Windos</item>
+        <item>Samsung</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+        <item>Best os</item>
+        <item>Best Phone</item>
+
+    </string-array>
+
+    <string-array name="author">
+
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+        <item>Bil Gates</item>
+        <item>South Korea</item>
+
+
+    </string-array>
+
+    ,<string-array name="price">
+
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$500</item>
+    <item>$200</item>
+    <item>$200</item>
+
+
+     </string-array>
+
+
+</resources>
